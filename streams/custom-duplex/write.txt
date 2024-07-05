@@ -1,0 +1,1 @@
+this is a string 0this is a string 1this is a string 2this is a string 3this is a string 4end of write
